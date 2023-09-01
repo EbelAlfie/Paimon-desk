@@ -4,6 +4,4 @@
   To dismiss Paimon, just press the escape <ESC> key.<br> All libraries needed for this project is included in requirements.txt file.<br>
     Just run this command if you have python installed in your machine:
 </p>
-```
-pip install requirements.txt
-```
+```pip install requirements.txt```
