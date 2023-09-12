@@ -6,5 +6,5 @@ Just run this command if you have python installed in your machine:
 ```
     pip install requirements.txt
 ```
-
-<sub>All assets belong to hoyolab, as I extracted the Icon from "Teyvat Interactive Map" loading</sub>
+Next, i will try to make it choose its own movement and action
+<sub>All assets belong to hoyolab, as I extracted the Icon from "Teyvat Interactive Map" loading screen</sub>
